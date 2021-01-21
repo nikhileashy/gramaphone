@@ -5,7 +5,7 @@ WELCOME_MSG = (
         f"Click /help for more information."
 )
 INFO_MSG = (
-	f"I'm using <a href="https://github.com/deethon">deethon</a> library to download songs from deezer.com .\n"
+	f"I'm using DEEthon library to download songs from deezer.com .\n"
 	f"I will glad to listen Thanks from you :)"
 )
 STATS_MSG = (
