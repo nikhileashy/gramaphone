@@ -1,12 +1,12 @@
 CREATOR = "@priyanshu_bhardwaj"
-BOT_NAME = "Song Dl Bot"
 WELCOME_MSG = (
-	f"🎶🎧 Welcome to {BOT_NAME} 🎶🎧\n\n"
-	"Click /help for more information."
+	f"Hey ..👋\n"
+        f"Welcome to Song Downloader Bot just Send your deezer link or Search Inline to download your song \n\n"
+        f"Click /help for more information."
 )
 INFO_MSG = (
-	f"Creator : {CREATOR}  🇮🇳\n"
-	f"Say Thanks if you using it :)"
+	f"I'm using <a href="https://github.com/deethon">deethon</a> library to download songs from deezer.com .\n"
+	f"I will glad to listen Thanks from you :)"
 )
 STATS_MSG = (
 	"Bot Uptime: {}\n"
@@ -20,12 +20,11 @@ HELP_MSG = (
 	"/start - Get the welcome message\n"
 	"/help - Get this message\n"
 	"/settings - Change your preferences\n"
-	"/info - Get some useful information about the bot\n"
+	"/info - about the bot dev.\n"
 	"/stats - Get some statistics about the bot\n"
         "/source - source of this project ⭐\n"
 )
 SOURCE_MSG = (
-f"Creator : {CREATOR}  🇮🇳\n\n"
 	f"https://github.com/bhardwajjEE/TgSongDl"
 )
 DOWNLOAD_MSG = "Downloading…"
