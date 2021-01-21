@@ -1,4 +1,4 @@
-# Telegram SongDL Bot
+# TG SongDL Bot
 Telegram Bot For Downloading Songs and Albums Using deegram Library .
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
@@ -15,12 +15,13 @@ Owner_id - Get this from @missrose_bot by sending /id in pm or Use Showjson bot 
 Deezer_token - Get Deezer Arl Cookie in Mozilla Firefox browser Using Cookie Manager Extension from deezer.com</br> </pre>
 
 ## Bot Functions 
+<pre>
 ● Single Track Download Support </br>
 ● Entire Album Download Support </br>
 ● Inline Search Support </br>
 ● All Possible qualities - 128KBPS, 256KBPS , 320KBPS , FLAC </br>
-● Supports DEEZER links
-● Simple & beautiful User InterFace
+● Supports DEEZER links </br>
+● Simple & beautiful User InterFace </br></pre>
 
 
 ## Screenshots 
@@ -33,8 +34,8 @@ Deezer_token - Get Deezer Arl Cookie in Mozilla Firefox browser Using Cookie Man
 ### [Ask Questions](https://telegram.me/priyanshu_bhardwaj)
 
 
-### CREDITS
+### [CREDITS](https://github.com/deethon/aykut)
 
-[Deegram by Aykut Yilmaz](https://github.com/deethon/deegram) </br>
+
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d30289a21dde443a87a9b026411f10b6)](https://app.codacy.com/gh/deethon/deegram?utm_source=github.com&utm_medium=referral&utm_content=deethon/deegram&utm_campaign=Badge_Grade_Dashboard)
 
