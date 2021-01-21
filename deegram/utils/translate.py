@@ -1,7 +1,7 @@
 CREATOR = "@priyanshu_bhardwaj"
 WELCOME_MSG = (
 	f"Hey ..👋\n"
-        f"Welcome to Song Downloader Bot just Send your deezer link or Search Inline to download your song \n\n"
+        f"Welcome to Song Downloader Bot .Send your deezer link or Search Inline to download your song .\n\n"
         f"Click /help for more information."
 )
 INFO_MSG = (
