@@ -21,7 +21,7 @@ Deezer_token - Get Deezer Arl Cookie in Mozilla Firefox browser Using Cookie Man
 ● Inline Search Support </br>
 ● All Possible qualities - 128KBPS, 256KBPS , 320KBPS , FLAC </br>
 ● Supports DEEZER links </br>
-● Simple & beautiful User InterFace </br></pre>
+● Beautiful Simple User InterFace </br></pre>
 
 
 ## Screenshots 
@@ -31,10 +31,11 @@ Deezer_token - Get Deezer Arl Cookie in Mozilla Firefox browser Using Cookie Man
 ![settings](https://telegra.ph/file/6082bb02460641f7ffd24.jpg)
 
 
-### [Ask Questions](https://telegram.me/priyanshu_bhardwaj)
 
 
-### [CREDITS](https://github.com/aykut)
+# [Original Repo ❤️](https://github.com/deethon/deegram)
+**My Repo is Fork of This Original Repo . I improved Some simple Stuffs , That's all**
+
 
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d30289a21dde443a87a9b026411f10b6)](https://app.codacy.com/gh/deethon/deegram?utm_source=github.com&utm_medium=referral&utm_content=deethon/deegram&utm_campaign=Badge_Grade_Dashboard)
