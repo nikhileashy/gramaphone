@@ -23,7 +23,7 @@
     },
     "DEEZER_TOKEN": {
       "description": "Get your API token from Deezer",
-      "value": "fr3b9096827b27dfb08c8c033efd4f54"
+      "value": "fr3b90968dodb27dfb08c8c033efd4f54"
     },
     "OWNER_ID": {
       "description": "Owner Telegram ID",
