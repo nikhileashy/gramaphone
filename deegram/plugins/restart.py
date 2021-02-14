@@ -16,7 +16,7 @@ if path.exists('restart.pickle'):
     remove('restart.pickle')
 
 
-@bot.on(events.NewMessage(pattern='/start'))
+@bot.on(events.NewMessage(pattern='/restart'))
 async def restart(event):
     restart_message = await event.reply("Restarting, Please wait!")
     with open('restart.pickle', 'wb') as status:
