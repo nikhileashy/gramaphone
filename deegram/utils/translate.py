@@ -1,12 +1,12 @@
 CREATOR = "@priyanshu_bhardwaj"
 WELCOME_MSG = (
 	f"Hey ..👋\n"
-        f"Welcome to Song Downloader Bot .Send your deezer link or Search Inline to download your song .\n\n"
-        f"Click /help for more information."
+        f"Welcome to gramaphone Song Downloader Bot .Send your deezer link or Search Inline to download your song .\n\n"
+        f"Click /help for more information. Made with the ❤️ from @n_a_c_bot_developers ."
 )
 INFO_MSG = (
 	f"I'm using DEEthon library to download songs from deezer.com .\n"
-	f"I will glad to listen Thanks from you :)"
+	f"I will glad to listen Thanks from you :),made with the ❤️ from @n_a_c_bot_developers ."
 )
 STATS_MSG = (
 	"Bot Uptime: {}\n"
