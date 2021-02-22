@@ -22,10 +22,10 @@ HELP_MSG = (
 	"/settings - Change your preferences\n"
 	"/info - about the bot dev.\n"
 	"/stats - Get some statistics about the bot\n"
-        "/source - source of this project ⭐\n"
+        "/muzic - download songs ⭐\n"
 )
 SOURCE_MSG = (
-	f"https://github.com/bhardwajjEE/TgSongDl"
+	f"https://t.me/gramaphone_muzic"
 )
 DOWNLOAD_MSG = "Downloading…"
 UPLOAD_MSG = "Uploading…"
